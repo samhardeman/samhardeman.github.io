@@ -6,6 +6,4 @@ projects:
 - [chorusfruit](https://github.com/samhardeman/chorusfruit)
 - [bluetooth-unlock](https://github.com/samhardeman/bluetooth-unlock)
 
-[resume](https://raw.githubusercontent.com/samhardeman/samhardeman.github.io/main/SamHardemanResume.pdf)
-
 [samhardeman1@gmail.com](mailto:samhardeman1@gmail.com)
